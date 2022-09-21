@@ -19,7 +19,7 @@ h3{
     font-size:20px;
 }
 .Goodness gracious{
-    font: size 4px;
+    font: size 5px;
     color:rgba(208, 173, 218, 0.592);
 }
 
@@ -52,6 +52,16 @@ td{
       td {
         text-align: center;
           }
+          th,td {
+            width:200px;
+            padding:0px 4px 4px 4px;
+            margin: -28px 0px -10px 100px;
+            background: lightblue;
+            border-top: 2px solid rgba(158, 156, 168, 0.282);
+            border-right: 4px dashed brown;
+            border-bottom: 8px double rgb(131, 139, 167);
+            border-left: 16px inset rgb(188, 201, 201);
+         }
           tr:nth-child(even) {background-color: #f2f2f2;}
 
 
